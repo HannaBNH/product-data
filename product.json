@@ -1,0 +1,167 @@
+[
+    {
+        "PRODID": "A100",
+        "PRODNAME": "Mercedes Benz Electric Kid Car",
+        "GRAPNAME": "Topbuy kid car",
+        "COST": "322.99",
+        "MSRP": "548.99",
+        "QTYHAND": "3",
+        "QTYBACK": "10",
+        "DESCR": "Battery powered ride on car 12V.",
+        "BRAND": "Topbuy INC."
+    },
+    {
+        "PRODID": "A200",
+        "PRODNAME": "Gotrax Edge Hoverboard Self Balancing Scooter",
+        "GRAPNAME": "Topbuy hoverboard",
+        "COST": "219.99",
+        "MSRP": "269.99",
+        "QTYHAND": "5",
+        "QTYBACK": "15",
+        "DESCR": "Hoverboard for Kids Adults, 6.5in Tires 10kmh - MAX 7km.",
+        "BRAND": "Topbuy INC."
+    },
+    {
+        "PRODID": "A300",
+        "PRODNAME": "Trampoline Kids and Adults",
+        "GRAPNAME": "Topbuy trampoline",
+        "COST": "679.99",
+        "MSRP": "471.99",
+        "QTYHAND": "3",
+        "QTYBACK": "10",
+        "DESCR": "Trampoline with Enclosure Net 14FT 1400LBS Trampoline for 3-4 Kids and 2-3 Adults.",
+        "BRAND": "Topbuy INC"
+    },
+    {
+        "PRODID": "A400",
+        "PRODNAME": "Kids Toy Archery Set",
+        "GRAPNAME": "Topbuy archery",
+        "COST": "39.99",
+        "MSRP": "79.99",
+        "QTYHAND": "12",
+        "QTYBACK": "20",
+        "DESCR": "Kids Toy Archery Bow and Arrow Set with Target and Stand.",
+        "BRAND": "Topbuy INC"
+    },
+    {
+        "PRODID": "A500",
+        "PRODNAME": "Baby Toys cloth books",
+        "GRAPNAME": "Topbuy cloth book",
+        "COST": "18.99",
+        "MSRP": "41.98",
+        "QTYHAND": "17",
+        "QTYBACK": "30",
+        "DESCR": "Set Of 8 Soft Cloth Books Baby Toys, Colorful Fabric Baby Learning Books.",
+        "BRAND": "Topbuy INC"
+    },
+    {
+        "PRODID": "B100",
+        "PRODNAME": "Folding Lounge Chair",
+        "GRAPNAME": "Folding chair",
+        "COST": "59.99",
+        "MSRP": "109.99",
+        "QTYHAND": "30",
+        "QTYBACK": "40",
+        "DESCR": "Outsunny Folding Lounge Chair, Tanning Chair with Adjustable Back, 8 colour choices.",
+        "BRAND": "Aosom Canada Inc"
+    },
+    {
+        "PRODID": "B200",
+        "PRODNAME": "Patio Swing Chair",
+        "GRAPNAME": "Swing chair",
+        "COST": "50.00",
+        "MSRP": "99.99",
+        "QTYHAND": "33",
+        "QTYBACK": "25",
+        "DESCR": "Outsunny 3-Seat Patio Swing Chair with Adjustable Canopy Black.",
+        "BRAND": "Aosom Canada Inc"
+    },
+    {
+        "PRODID": "B300",
+        "PRODNAME": "BBQ Grill Trolley",
+        "GRAPNAME": "Grill",
+        "COST": "134.99",
+        "MSRP": "168.99",
+        "QTYHAND": "2",
+        "QTYBACK": "30",
+        "DESCR": "Charcoal BBQ Grill Rolling Barbecue Trolley Smoker, Black and Red.",
+        "BRAND": "Aosom Canada Inc"
+    },
+    {
+        "PRODID": "B400",
+        "PRODNAME": "Electric Cooler",
+        "GRAPNAME": "Cooler",
+        "COST": "324.99",
+        "MSRP": "639.99",
+        "QTYHAND": "6",
+        "QTYBACK": "35",
+        "DESCR": "12 Volt Car Fridge, 42 Quart Electric Cooler, Dual Zone Portable Freezer with 12-24V DC and 110-240V AC.",
+        "BRAND": "Aosom Canada Inc"
+    },
+    {
+        "PRODID": "B500",
+        "PRODNAME": "Pop Up Shower Tent",
+        "GRAPNAME": "Tent",
+        "COST": "46.99",
+        "MSRP": "70.99",
+        "QTYHAND": "39",
+        "QTYBACK": "30",
+        "DESCR": "Pop Up Shower Tent, Outdoor Privacy Changing Dressing Room.",
+        "BRAND": "Aosom Canada Inc"
+    },
+    {
+        "PRODID": "C100",
+        "PRODNAME": "Headlight Restoration Kit",
+        "GRAPNAME": "Tool Kit",
+        "COST": "34.90",
+        "MSRP": "42.85",
+        "QTYHAND": "40",
+        "QTYBACK": "20",
+        "DESCR": "Easy Heavy-Duty restoration kit for headlight.",
+        "BRAND": "3M"
+    },
+    {
+        "PRODID": "C200",
+        "PRODNAME": "Marine Liquid Wax",
+        "GRAPNAME": "3M Wax bottle",
+        "COST": "46.98",
+        "MSRP": "74.95",
+        "QTYHAND": "47",
+        "QTYBACK": "50",
+        "DESCR": "Liquid wax for boats and RVs.",
+        "BRAND": "3M"
+    },
+    {
+        "PRODID": "C300",
+        "PRODNAME": "Plastic Coating Trim Restore",
+        "GRAPNAME": "Coating bottle",
+        "COST": "32.95",
+        "MSRP": "45.99",
+        "QTYHAND": "73",
+        "QTYBACK": "80",
+        "DESCR": "Plastic Restorer for Cars, Last Over 200 Washes, Highly Concentrated, 30ml.",
+        "BRAND": "3M"
+    },
+    {
+        "PRODID": "C400",
+        "PRODNAME": "Paint Protection Vinyl",
+        "GRAPNAME": "3M vinyl roll",
+        "COST": "33.99",
+        "MSRP": "52.99",
+        "QTYHAND": "64",
+        "QTYBACK": "50",
+        "DESCR": "Clear Paint Protection Vinyl Film 6 Inch Wide x 120 Inch.",
+        "BRAND": "3M"
+    },
+    {
+        "PRODID": "C500",
+        "PRODNAME": "3000 Grit Sandpaper",
+        "GRAPNAME": "Sandpaper",
+        "COST": "19.96",
+        "MSRP": "29.99",
+        "QTYHAND": "78",
+        "QTYBACK": "100",
+        "DESCR": "3000 Grit ideal for step 3 of the 3M body repair system.",
+        "BRAND": "3M"
+    }
+]
