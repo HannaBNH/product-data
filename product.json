@@ -8,56 +8,56 @@
         "QTYHAND": "3",
         "QTYBACK": "10",
         "DESCR": "Battery powered ride on car 12V. Kid car of Mercedes Benz brand.",
-        "BRAND": "Topbuy INC"
+        "BRAND": "Topbuy Inc"
     },
     {
         "PRODID": "A200",
         "PRODNAME": "Gotrax Edge Hoverboard Self Balancing Scooter",
-        "GRAPNAME": "Topbuy hoverboard",
+        "GRAPNAME": "hoverboard.png",
         "COST": "219.99",
         "MSRP": "269.99",
         "QTYHAND": "5",
         "QTYBACK": "15",
         "DESCR": "Hoverboard for Kids Adults, 6.5in Tires 10kmh - MAX 7km.",
-        "BRAND": "Topbuy INC"
+        "BRAND": "Topbuy Inc"
     },
     {
         "PRODID": "A300",
         "PRODNAME": "Trampoline Kids and Adults",
-        "GRAPNAME": "Topbuy trampoline",
+        "GRAPNAME": "trampoline.png",
         "COST": "679.99",
         "MSRP": "471.99",
         "QTYHAND": "3",
         "QTYBACK": "10",
         "DESCR": "Trampoline with Enclosure Net 14FT 1400LBS Trampoline for 3-4 Kids and 2-3 Adults.",
-        "BRAND": "Topbuy INC"
+        "BRAND": "Topbuy Inc"
     },
     {
         "PRODID": "A400",
         "PRODNAME": "Kids Toy Archery Set",
-        "GRAPNAME": "Topbuy archery",
+        "GRAPNAME": "archery-set.png",
         "COST": "39.99",
         "MSRP": "79.99",
         "QTYHAND": "12",
         "QTYBACK": "20",
         "DESCR": "Kids Toy Archery Bow and Arrow Set with Target and Stand.",
-        "BRAND": "Topbuy INC"
+        "BRAND": "Topbuy Inc"
     },
     {
         "PRODID": "A500",
         "PRODNAME": "Baby Toys cloth books",
-        "GRAPNAME": "Topbuy cloth book",
+        "GRAPNAME": "cloth-book.png",
         "COST": "18.99",
         "MSRP": "41.98",
         "QTYHAND": "17",
         "QTYBACK": "30",
         "DESCR": "Set Of 8 Soft Cloth Books Baby Toys, Colorful Fabric Baby Learning Books.",
-        "BRAND": "Topbuy INC"
+        "BRAND": "Topbuy Inc"
     },
     {
         "PRODID": "B100",
         "PRODNAME": "Folding Lounge Chair",
-        "GRAPNAME": "Folding chair",
+        "GRAPNAME": "folding-lounge-chair.png",
         "COST": "59.99",
         "MSRP": "109.99",
         "QTYHAND": "30",
@@ -68,7 +68,7 @@
     {
         "PRODID": "B200",
         "PRODNAME": "Patio Swing Chair",
-        "GRAPNAME": "Swing chair",
+        "GRAPNAME": "patio-swing-chair.png",
         "COST": "50.00",
         "MSRP": "99.99",
         "QTYHAND": "33",
@@ -79,7 +79,7 @@
     {
         "PRODID": "B300",
         "PRODNAME": "BBQ Grill Trolley",
-        "GRAPNAME": "Grill",
+        "GRAPNAME": "grill.png",
         "COST": "134.99",
         "MSRP": "168.99",
         "QTYHAND": "2",
@@ -90,7 +90,7 @@
     {
         "PRODID": "B400",
         "PRODNAME": "Electric Cooler",
-        "GRAPNAME": "Cooler",
+        "GRAPNAME": "electric-cooler.png",
         "COST": "324.99",
         "MSRP": "639.99",
         "QTYHAND": "6",
@@ -101,7 +101,7 @@
     {
         "PRODID": "B500",
         "PRODNAME": "Pop Up Shower Tent",
-        "GRAPNAME": "Tent",
+        "GRAPNAME": "tent.png",
         "COST": "46.99",
         "MSRP": "70.99",
         "QTYHAND": "39",
@@ -112,7 +112,7 @@
     {
         "PRODID": "C100",
         "PRODNAME": "Headlight Restoration Kit",
-        "GRAPNAME": "Tool Kit",
+        "GRAPNAME": "headlight-kit.png",
         "COST": "34.90",
         "MSRP": "42.85",
         "QTYHAND": "40",
@@ -123,7 +123,7 @@
     {
         "PRODID": "C200",
         "PRODNAME": "Marine Liquid Wax",
-        "GRAPNAME": "3M Wax bottle",
+        "GRAPNAME": "wax-bottle.png",
         "COST": "46.98",
         "MSRP": "74.95",
         "QTYHAND": "47",
@@ -134,7 +134,7 @@
     {
         "PRODID": "C300",
         "PRODNAME": "Plastic Coating Trim Restore",
-        "GRAPNAME": "Coating bottle",
+        "GRAPNAME": "coating-bottle.png",
         "COST": "32.95",
         "MSRP": "45.99",
         "QTYHAND": "73",
@@ -145,7 +145,7 @@
     {
         "PRODID": "C400",
         "PRODNAME": "Paint Protection Vinyl",
-        "GRAPNAME": "3M vinyl roll",
+        "GRAPNAME": "vinyl-roll.png",
         "COST": "33.99",
         "MSRP": "52.99",
         "QTYHAND": "64",
@@ -156,7 +156,7 @@
     {
         "PRODID": "C500",
         "PRODNAME": "3000 Grit Sandpaper",
-        "GRAPNAME": "Sandpaper",
+        "GRAPNAME": "sandpaper.png",
         "COST": "19.96",
         "MSRP": "29.99",
         "QTYHAND": "78",
