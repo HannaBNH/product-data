@@ -57,7 +57,7 @@
     {
         "PRODID": "B100",
         "PRODNAME": "Folding Lounge Chair",
-        "GRAPNAME": "folding-lounge-chair.png",
+        "GRAPNAME": "folding-chair.png",
         "COST": "59.99",
         "MSRP": "109.99",
         "QTYHAND": "30",
@@ -68,7 +68,7 @@
     {
         "PRODID": "B200",
         "PRODNAME": "Patio Swing Chair",
-        "GRAPNAME": "patio-swing-chair.png",
+        "GRAPNAME": "swing-chair.png",
         "COST": "50.00",
         "MSRP": "99.99",
         "QTYHAND": "33",
